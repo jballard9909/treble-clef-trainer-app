@@ -1,4 +1,4 @@
-# Clef — Music Theory Games
+# Treble Clef Trainer — Music Theory Games app
 
 > A browser-based music theory game built for real classroom use. Students practice reading treble clef notes in a timed, competitive format — with a live leaderboard and in-progress Google Classroom integration.
 
@@ -8,7 +8,7 @@
 
 ## Overview
 
-Clef started as a practical problem from my years as a music teacher: students needed more repetitions reading notes on the staff, but drilling flashcards alone doesn't hold attention. This app gamifies that practice — a 60-second round, a score, and a leaderboard to compete against classmates.
+Treble Clef Trainer started as a practical problem from my years as a music teacher: students needed more repetitions reading notes on the staff, but drilling flashcards alone doesn't hold attention. This app gamifies that practice — a 60-second round, a score, and a leaderboard to compete against classmates.
 
 It's also a technical project that reflects where I'm headed. Building it meant making product decisions (what does a student actually need?), integrating OAuth 2.0 authentication, connecting the Google Classroom API, and deploying a full-stack app — skills that translate directly into the automation and AI integration work I now build professionally.
 
