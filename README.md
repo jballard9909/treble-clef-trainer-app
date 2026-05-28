@@ -27,27 +27,11 @@ It's also a technical project that reflects where I'm headed. Building it meant 
 - Displays each player's personal best
 - Requires sign-in to participate
 
-### 🔐 Authentication
-- User accounts via Supabase Auth
-- Sign in to save scores and appear on the leaderboard
-
 ### 🏫 Google Classroom Integration *(In Progress)*
 - OAuth 2.0 authentication flow implemented
 - Designed to sync enrolled Google Classroom courses
 - Class-specific leaderboards so students compete within their own section
 - **Status:** OAuth and API connection are set up; Classroom Sync feature is actively being tested and refined
-
----
-
-## Tech Stack
-
-| Layer | Technology |
-|---|---|
-| Frontend | React, TypeScript, Tailwind CSS |
-| Backend / DB | Supabase (Auth + Postgres) |
-| Deployment | Lovable.dev |
-| API Integration | Google Classroom REST API |
-| Auth | OAuth 2.0 (Google) |
 
 ---
 
@@ -86,6 +70,4 @@ Before moving into automation and AI integration, I spent several years as a mus
 
 ---
 
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/jacob-ballard-) · [GitHub](https://github.com/jballard9909)
+Built by Jacob Ballard [LinkedIn](https://www.linkedin.com/in/jacob-ballard-)
