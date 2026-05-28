@@ -70,4 +70,4 @@ Before moving into automation and AI integration, I spent several years as a mus
 
 ---
 
-Built by Jacob Ballard [LinkedIn](https://www.linkedin.com/in/jacob-ballard-)
+*Built by Jacob Ballard [LinkedIn](https://www.linkedin.com/in/jacob-ballard-)
